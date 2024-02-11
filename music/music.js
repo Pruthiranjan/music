@@ -2,7 +2,7 @@ var song = new Audio;
 var muted = false;
 var vol = 1;
 song.type = 'audio/mpeg';
-song.src = 'https://atozlyrics.in/files/download/id/476';//Audio file source url
+song.src = 'https://hindi.djpunjab.app/load/f4KRhrNR8i-xXNKBYW_WXA==/He%20Ram%20He%20Ram.mp3';//Audio file source url
 
 function skip(time) {
    if (time == 'back') {
